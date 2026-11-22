@@ -1,0 +1,6 @@
+{
+  "name": "Kanso Goods",
+  "description": "Curated home objects, architectural lighting, and everyday deskware crafted from solid walnut, stoneware, and anodized aluminum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
